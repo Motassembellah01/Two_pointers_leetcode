@@ -8,8 +8,8 @@ Showcase my ability to approach problems systematically and improve over time. B
 
 🧩 Problems Solved
 
-  11. Container With Most Water
-  15. 3Sum
-  42. Trapping Rain Water
-  167. Two Sum II – Input Array Is Sorted
-  125. Valid Palindrome
+11.Container With Most Water
+15.ThreeSum
+42.Trapping Rain Water
+167.Two Sum II – Input Array Is Sorted
+125.Valid Palindrome
